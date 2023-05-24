@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivanpakpahan27
-- 👀 I’m interested in Neural Network Technology
+- 👀 I’m interested in Artificial Neural Network Technology
 - 🌱 I’m currently learning about LSTM
 
 <!---
